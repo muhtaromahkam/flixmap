@@ -36,15 +36,16 @@ FlixMap comes with the following key features:
 ```bash
 📦 FlixMap/
  ┣ 📂 datasets/
- ┃ ┗ 📜 movies-tvshows.csv           # Source data used in the project.
+ ┃ ┗ 📜 netflix dataset.csv          # Source data used in the project.
  ┣ 📂 dashboards/
  ┃ ┗ 📜 dashboard_screenshots/       # Screenshots of different sections of the Tableau dashboard.
  ┣ 📜 README.md
- ┣ 📜 FlixMap.twbx                   # Tableau workbook file.
+ ┣ 📜 Netflix Dashboard.pdf          # Project Detail
+ ┣ 📜 Netflix Dashboard.twbx         # Tableau workbook file.
 ```
 - datasets/: Contains the dataset file movies-tvshows.csv, which is used for analysis.
 - dashboards/: Contains screenshots of the dashboard for preview purposes.
-- FlixMap.twbx: The Tableau workbook file to open the dashboard.
+- Netflix Dashboard.twbx: The Tableau workbook file to open the dashboard.
 
 ## Future Improvements
 Some areas for future development include:
